@@ -1,0 +1,21 @@
+# Node.js dependencies
+node_modules/
+
+# dotenv environment variables file
+.env
+
+# macOS system files
+.DS_Store
+
+# npm logs
+npm-debug.log*
+
+# VSCode settings folder
+.vscode/
+
+# Build output (if applicable)
+dist/
+
+# Optional: Ignore the IDE or OS-specific files you may not want to track
+.idea/
+*.swp
